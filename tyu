@@ -1,0 +1,11 @@
+{
+"context":{
+"ToCity":"<?@city?>"
+},
+"output":{
+ "text":{
+  "values":[
+   "Ok,I Got that you want to travel to $ToCity. Which city would you be starting from?"
+   ]
+  }
+}
